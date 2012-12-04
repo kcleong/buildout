@@ -10,10 +10,8 @@ src/
 var/
 include/
 lib/
-buildout.cfg
 downloads/
 etc/haproxy.conf
 etc/logrotate.conf
 ???-settings.cfg
 *.pyc
-
